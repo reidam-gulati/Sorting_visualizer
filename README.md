@@ -5,5 +5,5 @@ This is a simple visualization project made using javascript
 * Insertion Sort
 * Quick Sort
 * Merge Sort
-* This is built using HTML, CSS, JavaScript
+ This is built using HTML, CSS, JavaScript
 
